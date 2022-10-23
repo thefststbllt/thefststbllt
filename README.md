@@ -19,9 +19,4 @@ I’m interested in web-development and how this massive thing such as internet 
 * [Telegram](https://t.me/bellockpaul)
 * [LinkedIn](https://www.linkedin.com/in/bellockpaul/)
 
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefststbllt)](https://github.com/thefststbllt/github-readme-stats)
-
-<!---
-thefststbllt/thefststbllt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefststbllt&custom_title=Paul's%20GitHub%20Stats&theme=react&border_color=57bdd9)](https://github.com/thefststbllt/github-readme-stats)
