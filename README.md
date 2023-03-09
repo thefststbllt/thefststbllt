@@ -23,7 +23,7 @@ I’m interested in web-development and how this massive thing such as internet 
 <br>
 
 ## Bundlers and Task Runners
-<img align="left" alt="Webpack" width="26px" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" style="padding-right:10px;" />
+<img align="left" alt="Webpack" width="39px" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" style="padding-right:10px;" />
 <br>
 <br>
 
