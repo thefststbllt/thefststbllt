@@ -1,7 +1,7 @@
 # Paul Belockopytov
 
 Hi I’m Paul. And I'd like to welcome you on my GitHub personal page.
-I’m interested in web-development and how this massive thing such as internet works. I’m looking to collaborate on projects which i can help you with.
+I’m interested in web-development and how this massive thing such as internet works. I’m looking to collaborate on projects which I can help you with.
 
 ## Skills & Tools
 
