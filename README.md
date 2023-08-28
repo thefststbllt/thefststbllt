@@ -25,10 +25,8 @@ I’m interested in web-development and how this massive thing such as internet 
 <br>
 
 ## Bundlers and Task Runners
-<img align="left" alt="Webpack" width="39px" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" style="display:flex;padding-top:20px" />
-<span width="39px" height="39px" style="display:inline-block;padding-right:10px">
-<img align="left" alt="Vite" width="25px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" />
-</span>
+<img align="left" alt="Webpack" width="39px" src="https://camo.githubusercontent.com/b0573f87b0786eda63c76f2a9a1358e7a653783c25c03c6c908a00b70c713d78/68747470733a2f2f7765627061636b2e6a732e6f72672f6173736574732f69636f6e2d7371756172652d6269672e737667" style="padding-right:10px" />
+<img align="left" alt="Vite" width="32px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" style="padding-right:10px" />
 <br>
 <br>
 
