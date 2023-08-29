@@ -3,7 +3,7 @@
 Hi I’m Paul. And I'd like to welcome you on my GitHub personal page.
 I’m interested in web-development and how this massive thing such as internet works. I’m looking to collaborate on projects which I can help you with.
 
-## Skills & Tools
+## Skills & Tools I use
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
@@ -24,7 +24,7 @@ I’m interested in web-development and how this massive thing such as internet 
 <br>
 <br>
 
-## Bundlers and Task Runners
+## Bundlers and Task Runners I use
 <img align="left" alt="Webpack" width="39px" src="https://camo.githubusercontent.com/b0573f87b0786eda63c76f2a9a1358e7a653783c25c03c6c908a00b70c713d78/68747470733a2f2f7765627061636b2e6a732e6f72672f6173736574732f69636f6e2d7371756172652d6269672e737667" style="padding-right:10px" />
 <img align="left" alt="Vite" width="36px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" style="padding-right:30px" />
 <img align="left" alt="Gulp" width="16px" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" style="padding-right:10px" />
